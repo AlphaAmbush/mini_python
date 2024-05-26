@@ -1,2 +1,2 @@
 # mini_python
- mini python projects
+This repository contains multiple python projects which I practiced to improve my python skills
